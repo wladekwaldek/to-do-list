@@ -1,0 +1,16 @@
+.wraper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pages {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 81, 0);
+}
+
+.pages button {
+    background-color: rgb(255, 81, 0);
+    margin: 2vw;
+    color: white;
+}

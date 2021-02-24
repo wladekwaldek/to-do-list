@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    height: 5vw;
+    width: 100%;
+    background-color: teal;
+    padding: 1vw;
+}
+
+.el {
+    list-style: none;
+    display: inline-block;
+    margin: 1vw;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
